@@ -1,8 +1,12 @@
-# remote-desktop-control
+# Forked from frankie567 (MIT License)
+
+Useful template for developing an RJC desktop app in Python to connect with any future RJC web apps.
+
+## remote-desktop-control
 
 A websocket-based approach to control a desktop application through the web. More information and insights on the [related Medium post](https://medium.com/@fvoron/control-a-desktop-app-through-web-with-websockets-41626d949e3b).
 
-## Try it yourself
+### Try it yourself
 
 At least Python 3.6 is required.
 
